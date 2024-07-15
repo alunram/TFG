@@ -1,6 +1,6 @@
 
 
-![](/home/alvaro/Escritorio/TFG/GIT/TFG/Memoria/Imágenes/ugr.jpg)
+![Universidad de Granada](/Memoria/Imágenes/ugr.jpg)
 
 # **Procesos Gaussianos para Aprendizaje Automático Supervisado**
 
