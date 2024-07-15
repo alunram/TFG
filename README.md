@@ -8,7 +8,7 @@ Este repositorio alberga el Trabajo de Fin de Grado (TFG) de Álvaro Luna Ramír
 
 ## Descripción del Proyecto
 
-Este proyecto estudia en profundidad la formulación teórica de los Procesos Gaussianos e investiga su aplicación en tareas de aprendizaje supervisado, resaltando tanto su eficacia como sus limitaciones. Los Procesos Gaussianos son herramientas que adoptan un enfoque probabilístico, permitiendo el trato de la incertidumbre en las predicciones mediante la inferencia Bayesiana facilitada por el Teorema de Bayes. Sin embargo, un inconveniente significativo es su complejidad computacional, que escala de forma cúbica con el número de muestras de entrenamiento.
+Este proyecto estudia en profundidad la formulación teórica de los Procesos Gaussianos e investiga su aplicación en tareas de aprendizaje automático supervisado, resaltando tanto su eficacia como sus limitaciones. Los Procesos Gaussianos son herramientas que adoptan un enfoque probabilístico, permitiendo el trato de la incertidumbre en las predicciones mediante la inferencia Bayesiana facilitada por el Teorema de Bayes. Sin embargo, un inconveniente significativo es su complejidad computacional, que escala de forma cúbica con el número de muestras de entrenamiento.
 
 
 
